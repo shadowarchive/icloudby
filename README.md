@@ -29,6 +29,8 @@ Paste this into the second terminal window:
 ( 6 ):
 * killall backboardd
 
-# ( C ) - This method was developed by AppleTech752, AppleDemo, and Exploit3d, Recompiled by Xin Snowflakes.
+# Copyright:
+
+* This method was developed by AppleTech752, AppleDemo, and Exploit3d, Recompiled by Xin Snowflakes.
 
 ## Credits to the Peeps above, and of course axi0mX for the Original Developer.
