@@ -23,6 +23,10 @@ Paste this into the second terminal window:
 ( 4 ):
 * mv /Applications/Setup.app /Applications/Setup.app.crae
 
+or
+
+* mv /Applications/Setup.app /Applications/Setup.app.orig
+
 ( 5 ):
 * uicache --all
 
