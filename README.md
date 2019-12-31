@@ -13,7 +13,7 @@ Paste this into the second terminal window:
 ( 2 ):
 * mount -o rw,union,update /
 
-(3):
+( 3 ):
 * echo "" >> /.mount_rw
 
 ( 4 ):
