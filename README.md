@@ -11,6 +11,8 @@ Paste this into the first terminal window:
 ( 1 ):
 * ./tcprelay.py -t 44:2222
 
+## Script Command:
+
 Paste this into the second terminal window:
 
 ( 1 ):
