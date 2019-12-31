@@ -2,6 +2,8 @@
 
 * This method uses Checkra1n Exploit to Bypass iOS iCloud Activation Lock even after Restart / Respring and Reset, It wipes out the iCloud Account on the iPhone / iOS Software and Recaches the Old System up alive, due to this. The method also Backs Up the iOS Setup.app or renames it for Removal of the Activation Lock, You can also use another Account on the iPhone after Refresh but never update it to the Latest due to Restrictions like that of so on Serial Number locked into the iPhone Mechanism from its Original Owners, Whatever you do; Unless tested, Just dont update it until further Updates.
 
+* This method was also tested on iPhone 5s using iOS 12.2 till 12.3.2 but never on iOS 12.3.3
+
 ## Commands:
 
 Paste this into the first terminal window:
@@ -35,6 +37,6 @@ or
 
 # Copyright:
 
-* This method was developed by AppleTech752, AppleDemo, and Exploit3d, Recompiled by Xin Snowflakes.
+* This method was developed by AppleTech752, AppleDemo, and Exploit3d, recompiled successfully by Xin Snowflakes.
 
 ## Credits to the Peeps above, and of course axi0mX for the Original Developer.
